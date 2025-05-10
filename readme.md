@@ -9,10 +9,7 @@ This is a quick demo/instance of devbox that is capable of running:
 
 1. [instructions on the devbox website](https://jetify-com.vercel.app/docs/devbox/installing_devbox/?install-method=wsl)
 
-2. Then, install direnv 
-```bash
-curl -fsSL https://get.jetify.com/devbox | bash
-```
+2. [Then, install direnv](https://direnv.net/docs/installation.html)
 
 3. Finally, clone this repository and cd into it. After that, use the following command:
 ```bash
